@@ -7,8 +7,6 @@ $light-gray: hsl(0, 0%, 95%); // background, headings, buttons
 
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 h2 {
@@ -28,6 +26,7 @@ body,
   line-height: 25px;
   color: $transparent-white;
   background-color: $light-gray;
+  margin: 0;
 }
 
 

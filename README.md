@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-built-with-sass-and-flexbox-NFrzRZovf](https://www.frontendmentor.io/solutions/3column-preview-card-built-with-sass-and-flexbox-NFrzRZovf)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-built-with-sass-and-flexbox-X3B_p1K2j](https://www.frontendmentor.io/solutions/3column-preview-card-built-with-sass-and-flexbox-X3B_p1K2j)
 - Live Site URL: [https://madmanden.github.io/3-column-preview-card-component/](https://madmanden.github.io/3-column-preview-card-component/)
 
 ## My process
